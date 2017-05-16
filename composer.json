@@ -1,5 +1,5 @@
 {
-	"name": "mp-php/fuel-packages-chatwork",
+	"name": "alfr0475/fuel-packages-chatwork",
 	"type": "fuel-package",
 	"require": {
 		"composer/installers": "*"
